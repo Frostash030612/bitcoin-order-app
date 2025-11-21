@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Bitcoin Web App n
+=======
+# Bitcoin vv
+>>>>>>> master
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.6.
 
